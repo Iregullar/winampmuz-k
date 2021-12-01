@@ -1,12 +1,9 @@
 <h1 align="centre">🎶 Müzik Bot 🎶</h1>
 
-Ana Grup = [@Exercitus](https://t.me/ExercitusChat)
-
-Hazırlayan = [@ExercitusSahip](https://t.me/ExercitusSahip)
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cancinconntg/vc_bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iregullar/winampmuz-k.git)
 
 STRING_NAME i buradan alın ;
 
